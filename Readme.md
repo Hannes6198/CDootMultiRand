@@ -8,6 +8,8 @@ ANLEITUNG
 6. Einfügen in Powershell (Macht man einfach mit einem rechtsklick)
 7. Warten, wenn Windows nach berechtigung fragt, akzeptieren.
 8. Installer startet, installation durchführen.
+
+
   **Done**
 
 ###### Script:
