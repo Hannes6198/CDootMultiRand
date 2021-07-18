@@ -26,6 +26,7 @@ iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercon
 ```
 
 ## Emulator konfigurieren
+Euer Emulator wurde installiert, zu finden unter *BizHawk-2.3\EmuHawk.exe*
 
 1. Gehe zu  ```Config -> Customize -> Advance``` 
 2. Unten sind Optionen für *Lua Core*
