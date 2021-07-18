@@ -1,4 +1,4 @@
-Hannes: Kokiri: Weiß, Goron: Silber, Zora: Gold; ID: 1
+Hannes: Weiss        1
 Janna:  Türkis       2
 Rycuda: Lila         3
 Opa:    Pink         4
