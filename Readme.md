@@ -1,5 +1,7 @@
-ANLEITUNG
-=========
+# ANLEITUNG
+
+## Emulator installieren
+
 1. Ordner erstellen
 2. Ordner öffnen
 3. SHIFT + Rechtsklick in den Ordner
@@ -22,3 +24,8 @@ Set-ExecutionPolicy Bypass -Scope Process -Force;
 [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072;
 iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/TestRunnerSRL/bizhawk-co-op/master/bizhawk-co-op.ps1'))
 ```
+
+## Emulator konfigurieren
+
+1. Gehe zu ```Config -> Customize -> Advance```
+2. 
