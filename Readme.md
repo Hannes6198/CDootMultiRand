@@ -59,7 +59,7 @@ Euer Emulator wurde installiert, zu finden unter *BizHawk-2.3\EmuHawk.exe*
 # Hamachi installieren
 Da Vodafone absolut KERNBEHINDERT ist, kann niemand von uns host sein. Deswegen nutzen wir Hamachi, *like in the good'ole days*
 
-1. auf [https://www.vpn.net/] gehen
+1. Auf https://www.vpn.net/ gehen
 2. Downloaden und installieren
 3. Account erstellen wenn gefragt
 
