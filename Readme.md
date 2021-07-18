@@ -47,20 +47,35 @@ iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercon
 - Da Multiworld ganz schön Leistung zieht, sollte man noch was anpassen
 - Bei ```Config -> Cores -> N64 Video Plugin Settings``` Auflösung runterstellen.
 
+**Um alle Einstellungen dauerhaft zu speichern, gehe zu ```Config -> Save Config```**
+
 ## Session konfigurieren
 
 1. Gehe zu ```Tools -> Lua Console``` -> *Dieses Fenster MUSS immer offen sein, damit die Multiworld verbindung steht*
 2. Gehe in *Settings*, check ```Disable Scripts on loads```
-3. Um alle Einstellungen dauerhaft zu speichern, gehe zu ```Config -> Save Config```
-4. Emulator neustarten
+3. Emulator neustarten
+
+# Hamachi installieren
+Da Vodafone absolut KERNBEHINDERT ist, kann niemand von uns host sein. Deswegen nutzen wir Hamachi, *like in the good'ole days*
+
+1. auf [https://www.vpn.net/] gehen
+2. Downloaden und installieren
+3. Account erstellen wenn gefragt
+
 
 ## Session starten
 
-1. Lua Console öffnen
-2. Open Script, wähle ```bizhawk co-op.lua``` im *Bizhawk 2.3* Ordner
-3. Ein Rotes Quadrat wird in der Konsole auftauchen, doppelklicken -> *Dieses Fenster MUSS auch immer offen sein*
-4. Im neuen Fenster folgendes angeben:
-- Port: 50000
-- *PW und Raum Folgen* 
-
-
+1. Hamachi öffnen
+2. Zum Netzwerk connecten: 25.80.193.232, Name: CDootMultiRand PW: cdoot1234
+3. Emulator öffnen
+4. Rom laden
+5. Lua Konsole öffnen
+6. Open Script, wähle ```bizhawk co-op.lua``` im *Bizhawk 2.3* Ordner
+7. Neue zeile taucht auf, doppelklicken -> *Dieses Fenster MUSS auch immer offen sein*
+8. Oben bei *Rooms* ```Custom IP``` auswählen
+9. Im *Host-IP* Feld, die IP von Hamachi eintragen (25.80.193.232)
+10. Selbst Username wählen. Das ist euer In Game Name bei anderen.
+11. Bei *Player #* die letzte Zahl euerer Rom wählen, da wo P*x* steht, das *x*  
+12. Bei *Game Script* OOT auswählen
+13. Connect
+14. Ready setzen
