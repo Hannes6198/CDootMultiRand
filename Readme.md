@@ -8,6 +8,8 @@ ANLEITUNG
 6. Einfügen in Powershell (Macht man einfach mit einem rechtsklick)
 7. Warten, wenn Windows nach berechtigung fragt, akzeptieren.
 8. Installer startet, installation durchführen.
+9.  Im Ordner wurde alles erstellt, kann jetzt verschoben werden.
+..* Bei Problemen während der Installation, bitte bei Ihrem örtlichen Hannes melden.
 
 
   **Done**
