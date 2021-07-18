@@ -67,7 +67,7 @@ Da Vodafone absolut KERNBEHINDERT ist, kann niemand von uns host sein. Deswegen 
 ## Session starten
 
 1. Hamachi öffnen
-2. Zum Netzwerk connecten: 25.80.193.232, Name: CDootMultiRand PW: cdoot1234
+2. Zum Netzwerk connecten: 25.80.193.232, Name: CDootMultiRand PW: *im CD zu finden*
 3. Emulator öffnen
 4. Rom laden
 5. Lua Konsole öffnen
