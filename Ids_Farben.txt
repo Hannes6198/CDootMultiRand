@@ -1,0 +1,9 @@
+Hannes: Weinrot      1
+Janna:  Türkis       6
+Rycuda: Lila         5
+Opa:    Pink         4
+Torben: Orange       3
+Jojo:   Gelb         2
+Big J:  Dinkelbleu   7
+
+https://ootrandomizer.com/seed/get?id=836788
